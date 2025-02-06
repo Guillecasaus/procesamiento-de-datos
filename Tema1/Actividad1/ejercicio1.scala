@@ -1,9 +1,9 @@
 object Ejercicio1 {
-  
+
   def invertAndMap[T, U](lista: List[T], funcion: T => U): Map[T, U] = {
     val listaInvertida = lista.reverse 
     listaInvertida.foldLeft(Map[T, U]()) { (mapa, elemento) =>
-      mapa + (elemento -> funcion(elemento)) 
+    mapa + (elemento -> funcion(elemento)) 
     }
   }
 
