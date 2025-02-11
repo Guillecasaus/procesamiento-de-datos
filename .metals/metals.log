@@ -1650,3 +1650,35 @@ feb 11, 2025 9:29:08 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint no
 ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
 feb 11, 2025 9:29:11 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+feb 11, 2025 9:29:15 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+feb 11, 2025 9:29:16 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+ADVERTENCIA: Unsupported notification method: metals/windowStateDidChange
+2025.02.11 09:29:22 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Actividad1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:29:22 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Actividad1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:29:24 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Actividad1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:29:43 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:29:43 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:29:44 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:29:45 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:29:45 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:29:47 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:29:47 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:29:47 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+feb 11, 2025 9:30:16 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2025.02.11 09:30:23 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Actividad1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:23 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Actividad1\ejercicio2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:23 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:30 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Actividad1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:31 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:31 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Actividad1\ejercicio2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+feb 11, 2025 9:30:31 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2025.02.11 09:30:34 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:34 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:34 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:35 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:40 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:41 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.11 09:30:40 INFO  no build target found for C:\Users\guill\OneDrive\Escritorio\Asignaturas\3ª Año\2ª Cuatrimeste\Procesamiento de datos\Tema1\Ejercicios\Ejercicio.scala. Using presentation compiler with project's scala-library version: 3.3.4
