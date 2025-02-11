@@ -7,9 +7,9 @@ object BorrarElementos {
   }
 
   def main(args: Array[String]): Unit = {
-    println(borraNElementos(List(), 0)) // List()
-    println(borraNElementos(List(1), 5)) // List()
-    println(borraNElementos(List(1, 2, 5, 7), 3)) // List(7)
-    println(borraNElementos(List(10, 20, 30, 40), 2)) // List(30, 40)
+    println(borraNElementos(List(), 0))
+    println(borraNElementos(List(1), 5))
+    println(borraNElementos(List(1, 2, 5, 7), 3))
+    println(borraNElementos(List(10, 20, 30, 40), 2))
   }
 }
