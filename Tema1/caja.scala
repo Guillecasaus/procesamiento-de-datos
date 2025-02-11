@@ -28,7 +28,7 @@ class Caja[T](private var contenido: T) {
 object Main {
   def main(args: Array[String]): Unit = {
     // Crear una caja para almacenar un número entero
-    val cajaInt = new Caja  // Inion el valor 10
+    val cajaInt = new Caja[Int](10)  // Inicializa con el valor 10
     println(s"Valor obtenido: ${cajaInt.obtener()}") // Valor obtenido: 10
 
     // Actualizar el valor almacenado

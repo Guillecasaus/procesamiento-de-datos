@@ -12,5 +12,16 @@ object ListaSinDuplicados {
 
     val resultado2 = agregarSiNoExiste(listaOriginal, 6)
     println(resultado2)
+
+    def sum(ints: List[Int]): Int ={
+        ints match{
+            case Nil => 0
+            case h :: Nil => h
+            case h :: t => h + sum(t)
+        }
+    }
+    sum(List())
+    sum(List(16))
+    sum(List(1,2,3))
   }
 }
